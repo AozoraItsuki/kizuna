@@ -1,0 +1,179 @@
+{
+    "profile": {
+        "name": "",
+        "age": -1,
+        "email": "",
+        "registered": false,
+        "regTime": -1,
+        "created": 0,
+        "title": ""
+    },
+    "stats": {
+        "level": 0,
+        "exp": 0,
+        "role": "Beginner",
+        "rank": "Bronze",
+        "warning": 0,
+        "warnReason": "",
+        "banned": false,
+        "bannedTime": 0,
+        "verif": false
+    },
+    "activity": {
+        "chat": 0,
+        "chatTotal": 0,
+        "command": 0,
+        "commandTotal": 0
+    },
+    "limit": {
+        "chat": 50,
+        "command": 50,
+        "commandMsg": 0
+    },
+    "feature": {
+        "premium": false,
+        "premiumTime": 0,
+        "autolevelup": false,
+        "noPrefix": false,
+        "autodownload": false
+    },
+    "status": {
+        "health": 100,
+        "energy": 100,
+        "sleep": 100,
+        "afk": -1,
+        "afkReason": "",
+        "lastseen": 0
+    },
+    "economy": {
+        "money": 0,
+        "bank": 0,
+        "atm": 0,
+        "fullatm": 0,
+        "chip": 0,
+        "donasi": 0,
+        "invest": {},
+        "saham": {},
+        "historyTrx": []
+    },
+    "relationship": {
+        "pacar": "",
+        "pacaranTime": 0,
+        "tembak": "",
+        "ditembak": false
+    },
+    "inventory": {
+        "materials": {
+            "wood": 0,
+            "rock": 0,
+            "iron": 0,
+            "string": 0,
+            "trash": 0
+        },
+        "recyclables": {
+            "botol": 0,
+            "kardus": 0,
+            "kaleng": 0,
+            "gelas": 0,
+            "plastik": 0
+        },
+        "food": {
+            "steak": 0,
+            "ayam": 0,
+            "ayamGoreng": 0,
+            "ribs": 0,
+            "roti": 0,
+            "udangGoreng": 0,
+            "bacon": 0,
+            "makanan": 0
+        },
+        "ingredients": {
+            "gandum": 0,
+            "minyak": 0,
+            "garam": 0
+        },
+        "farming": {
+            "apel": 0,
+            "anggur": 0,
+            "jeruk": 0,
+            "mangga": 0,
+            "pisang": 0,
+            "bibitapel": 0,
+            "bibitanggur": 0,
+            "bibitjeruk": 0,
+            "bibitmangga": 0,
+            "bibitpisang": 0
+        },
+        "lootbox": {
+            "common": 0,
+            "uncommon": 0,
+            "mythic": 0,
+            "legendary": 0
+        },
+        "titles": []
+    },
+    "pets": {
+        "cat": { "level": 0, "exp": 0, "last_feed": 0 },
+        "dog": { "level": 0, "exp": 0, "last_feed": 0 },
+        "horse": { "level": 0, "exp": 0, "last_feed": 0 },
+        "fox": { "level": 0, "exp": 0, "last_feed": 0 },
+        "robo": { "level": 0, "exp": 0, "last_feed": 0 },
+        "lion": { "level": 0, "exp": 0, "last_feed": 0 },
+        "wolf": { "level": 0, "exp": 0, "last_feed": 0 },
+        "griffin": { "level": 0, "exp": 0, "last_feed": 0 },
+        "centaur": { "level": 0, "exp": 0, "last_feed": 0 },
+        "kyubi": { "level": 0, "exp": 0, "last_feed": 0 },
+        "phoenix": { "level": 0, "exp": 0, "last_feed": 0 },
+        "dragon": { "level": 0, "exp": 0, "last_feed": 0 }
+    },
+    "equipment": {
+        "armor": 0,
+        "armordurability": 0,
+        "sword": 0,
+        "sworddurability": 0,
+        "pickaxe": 0,
+        "pickaxedurability": 0,
+        "fishingrod": 0,
+        "fishingroddurability": 0
+    },
+    "modes": {
+        "tower": {
+            "season": 0,
+            "floor": 0,
+            "bestFloor": 0,
+            "totalCleared": 0,
+            "rank": "E",
+            "win": 0,
+            "lose": 0,
+            "streak": 0
+        }
+    },
+    "cooldown": {
+        "lastclaim": 0,
+        "lastadventure": 0,
+        "lastkill": 0,
+        "lastmisi": 0,
+        "lastdungeon": 0,
+        "lastwar": 0,
+        "lastsda": 0,
+        "lastduel": 0,
+        "lastmining": 0,
+        "lasthunt": 0,
+        "lastgift": 0,
+        "lastberkebon": 0,
+        "lastdagang": 0,
+        "lasthourly": 0,
+        "lastbansos": 0,
+        "lastrampok": 0,
+        "lastnebang": 0,
+        "lastweekly": 0,
+        "lastmonthly": 0,
+        "lockBankCD": 0,
+        "lasthackbank": 0
+    },
+    "misc": {
+        "sticker": {},
+        "task": {},
+        "rumah": {}
+    }
+}
