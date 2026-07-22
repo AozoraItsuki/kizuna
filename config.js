@@ -30,12 +30,12 @@ export const config = {
 
         whatsapp: {
             name: "Yui",
-            number: "6283159699851",
+            number: "628**********",
             pairingCode: "HKRHOSHI",
             usePairing: true,
             owners: [
                 {
-                    id: "6283159699851@s.whatsapp.net",
+                    id: "628*********@s.whatsapp.net",
                     name: "Hoshi",
                     isDeveloper: true
                 }
